@@ -2,11 +2,11 @@
 
 API for getting timestamp in unix and utc format of a give date. The output is in JSON object.
 
-# pre-requisit
+## pre-requisit
 
 [install node on ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04)
 
-# setup on ubuntu
+## setup on ubuntu
 
 1. sudo apt install git
 2. git clone https://github.com/RahulBhoir/js_timestamp_api.git
@@ -20,7 +20,7 @@ app is running
 
 Done :)
 
-# testing API
+## testing API
 
 the endpoint of the API --> /api/timestamp/
 path --> date it can be of format unix, Date, UTC
