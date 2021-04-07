@@ -1,0 +1,14 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "API will return the timestamp in unix and UTC format. The returned data will be in JSON format. Input will be a an URL in /api/timestamp/:date?, for example /api/timestamp/07-04-2021 or any date.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Bhoir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
