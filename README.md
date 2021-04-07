@@ -25,4 +25,4 @@ Done :)
 the endpoint of the API --> /api/timestamp/
 path --> date it can be of format unix, Date, UTC
 
-complete URL is http://localhost:3000/api/timestamp/07-04-2021
+complete URL is /api/timestamp/07-04-2021
